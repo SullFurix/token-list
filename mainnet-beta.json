@@ -16,5 +16,11 @@
     "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "tokenName": "SRM",
     "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+  },
+  {
+    "tokenSymbol": "FIDA",
+    "mintAddress": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+    "tokenName": "Bonfida",
+    "icon": "https://cdn.jsdelivr.net/gh/dr497/awesome-serum-markets/icons/fida.svg"
   }
 ]
