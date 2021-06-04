@@ -16,5 +16,11 @@
     "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "tokenName": "SRM",
     "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+  },
+  {
+    "tokenSymbol": "DCASH",
+    "mintAddress": "dcachkodsokogipsejkgkskgkeoksokgokoekoskgoe",
+    "tokenName": "DCASH",
+    "icon": "https://pbs.twimg.com/profile_images/1384155963419070476/0pQ33B9h_400x400.jpg"
   }
 ]
