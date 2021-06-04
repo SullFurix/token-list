@@ -22,5 +22,17 @@
     "mintAddress": "dcash",
     "tokenName": "DCASH",
     "icon": "https://diabolo.io/wp-content/uploads/2020/07/DIABOLO-TOKEN-.png"
+  },
+  {
+    "tokenSymbol": "AAVE",
+    "mintAddress": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
+    "tokenName": "AAVE",
+    "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+  },
+  {
+    "tokenSymbol": "LINK",
+    "mintAddress": "6msNYXzSVtjinqapq2xcvBb5NRq4YTPAi7wc5Jx8M8TS",
+    "tokenName": "CHAINLINK",
+    "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
   }
 ]
