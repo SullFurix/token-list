@@ -528,6 +528,17 @@
             "decimals": 6,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
             "pairs": []
+        },
+        {
+            "chainId": 1,
+            "asset": "c60_t0xcF8f32e032f432B02393636B2092a6BEf975FBF9",
+            "type": "ERC20",
+            "address": "0xcF8f32e032f432B02393636B2092a6BEf975FBF9",
+            "name": "Diabolo",
+            "symbol": "DCASH",
+            "decimals": 10,
+            "logoURI": "https://diabolo.io/wp-content/uploads/2020/07/DIABOLO-TOKEN-.png",
+            "pairs": []
         }
     ],
     "version": {
